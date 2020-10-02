@@ -206,3 +206,13 @@ hr{
 .smallLogo{
   margin-right: 2%;
 }
+
+/* charm */
+
+.charmMainDiv{
+  background-color: grey;
+  background-image: url("images/charmBackgroundFinal.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 60vh;
+}
